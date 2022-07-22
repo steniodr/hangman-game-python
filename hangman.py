@@ -128,7 +128,5 @@ def main():
 		print('\nGame over! Você perdeu.')
 		print('A palavra era ' + game.word)
 		
-	print('\nFoi bom jogar com você! Agora vá estudar!\n')
-
 if __name__ == "__main__":
 	main()
